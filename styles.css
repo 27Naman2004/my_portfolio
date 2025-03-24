@@ -27,8 +27,11 @@ body {
     font-family: 'Raleway', sans-serif;
     line-height: 1.6;
     color: var(--dark-color);
-    background-color: #fff;
+    background: url('jeel.mp4') no-repeat center center fixed;
+    background-size: cover;
+    /* background-color: #fff; */
     overflow-x: hidden;
+    
 }
 
 a {
